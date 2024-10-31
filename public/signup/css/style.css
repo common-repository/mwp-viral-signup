@@ -1,0 +1,22 @@
+.wow-signup { display: block; font-family: Open Sans, Helvetica, Myriad Pro, sans-serif; width: 370px; } 
+.wow-signup form { margin:0; padding:0; } 
+.wow-signup p { line-height: 28px; margin:0; padding:0; margin-top:7px; }
+.wow-signup input { -webkit-appearance: none; -moz-appearance: none; appearance: none; box-sizing: content-box; width: 353px; height: 62px; line-height: 60px; border-radius: 3px; border: 1px solid #9C9C9C; background: #f4f4f4; margin-top: 13px; padding: 0px; padding-left: 15px; font-family: Open Sans, Helvetica, Myriad Pro, sans-serif; font-size: 16px; letter-spacing: -0.7px; text-align: left; outline: none; }
+.wow-signup button { -webkit-appearance: none; -moz-appearance:    none; appearance:         none; display: block; box-sizing: content-box; width: 370px; height: 60px; margin-top:15px; line-height: 60px; border-radius: 3px; border:0; font-family: Open Sans, Helvetica, Myriad Pro, sans-serif; outline:none; padding: 0; cursor: pointer; }
+.wow-signup .success p { margin-top:10px; line-height:28px; }
+.wow-signup .success .limitedtext p { line-height: 28px; margin:0; padding:0; margin-top:7px; }
+.shareBtn { display: inline-block; box-sizing: content-box; width:65px; height:48px; line-height:48px; padding-left:50px; border-radius: 3px; font-size:16px; text-decoration:none; margin-top:17px; margin-right:10px; cursor: pointer; text-align: left; } .wow-signup .fb { background:url(fb.png) no-repeat 20px center #5d82d1; color:#fff; }
+.wow-signup .fb:active { background-color:#4d70bc; color:#fff; }
+.wow-signup .tw { background:url(tw.png) no-repeat 15px center #40bff5; color:#fff; }
+.wow-signup .tw:active { background-color:#36abdc; color:#fff; }
+.err {color:#a03717;}
+.wow-signup p { font-size: 24px; color: #000000; }
+.wow-signup span { font-size: 24px; color:#58c486; }
+.wow-signup .success .limitedtext p { font-size: 24px; color:#000; }
+.wow-signup .success .limitedtext span { font-size: 24px; color:#58c486; }
+.wow-signup .success p { font-size: 16px; color:#000; }
+.wow-signup button { font-size: 16px; color:#000; background: #58c486; }
+.wow-signup button:hover { background:#36c474; }
+.wow-signup button:disabled { background:#e5e5e5; cursor: default; text-align: 2; }
+.wow-signup { margin: 0 auto; text-align: center; }
+#yourlink {font-size: 12px;} 
